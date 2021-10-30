@@ -1,0 +1,28 @@
+#nota {
+    display: flex;
+    list-style: none;  
+}
+
+#abajo {
+    display: flex;
+    list-style: none;  
+}
+ul li img{
+    padding: 10px;
+    
+}
+
+#nota li img{
+    width: 220px;
+    height: 120px;  
+}
+
+#abajo li img{
+    width: 220px;
+    height: 120px;
+}
+
+img{
+    height: 200px;
+    width: 100%; 
+}
